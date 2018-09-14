@@ -1,0 +1,9 @@
+Tehtävä 1)
+A)
+
+B)
+
+C)
+Alkuperäisessä määritellyssä annetaan värien lukumääräksi kymmenen. Tämän vuoksi toteutus on hyvin kevyt, eikä kata useita satoja värejä,
+myöskään värien “sekoittaminen” tai satunnaisen ei-ennalta määritellyn absoluuttisen värikoodin käyttäminen on mahdotonta. 
+Eli muutamia uusia, värejä on sovellukseen helppo lisätä, mutta kokonaisen värikartan hyödyntäminen ei sovellu alkuperäiseen määrittelyyn.
